@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/3457862348975/Desktop/MatrixLib_test/build",
+  "command": "C:\\Users\\3457862348975\\Documents\\MinGW\\bin\\g++.exe -DMathDouble -Dshared_matrixlib_EXPORTS @CMakeFiles/shared-matrixlib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrixlib.dir\\matrixlib\\Matrix.cpp.obj -c C:\\Users\\3457862348975\\Desktop\\MatrixLib_test\\lib\\matrixlib\\Matrix.cpp",
+  "file": "C:/Users/3457862348975/Desktop/MatrixLib_test/lib/matrixlib/Matrix.cpp",
+  "output": "CMakeFiles/shared-matrixlib.dir/matrixlib/Matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/3457862348975/Desktop/MatrixLib_test/build",
+  "command": "C:\\Users\\3457862348975\\Documents\\MinGW\\bin\\g++.exe -DMathDouble -Dshared_matrixlib_EXPORTS @CMakeFiles/shared-matrixlib.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\shared-matrixlib.dir\\matrixlib\\c\\c_api.cpp.obj -c C:\\Users\\3457862348975\\Desktop\\MatrixLib_test\\lib\\matrixlib\\c\\c_api.cpp",
+  "file": "C:/Users/3457862348975/Desktop/MatrixLib_test/lib/matrixlib/c/c_api.cpp",
+  "output": "CMakeFiles/shared-matrixlib.dir/matrixlib/c/c_api.cpp.obj"
+}
+]
